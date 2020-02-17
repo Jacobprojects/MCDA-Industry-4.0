@@ -38,9 +38,6 @@
 <img src="https://github.com/Jacobprojects/MCDA-Industry-4.0/blob/master/Screen%20Shot%202020-02-16%20at%2022.47.07.png">
 
 
-### How it works? See:)
-
-
 ### Video demo
 
 [Youtube](https://www.youtube.com/watch?v=p8WyEn14Cto&t=312s)
