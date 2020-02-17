@@ -7,14 +7,14 @@
 ### How to Run ? 
 - Download
 - UnZIP the project
-- Run `crearbase.py`
+- Run `python crearbase.py`
 - The "bd1.db" will be created
-- Then run `modulos.py`
+- Then run `python modulos.py`
 
 ### Project Structure
 
 - After running the program the first 3 models will be shown in the window.
--In the first tab "Agregar" you can add the new alternative.
+- In the first tab "Agregar" you can add the new alternative.
 - After that you can view all the alternatives in the tab "consultar" you have captured in the DB.
 - In the next tab "Modificar/Actualizar" you can manipualte the data.
 - After that in the tab "Eliminar" you can eliminate an alternative by the code.
