@@ -8,7 +8,7 @@
 - Download
 - UnZIP the project
 - Run `crearbase.py`
--The "bd1.db" will be created
+- The "bd1.db" will be created
 - Then run `modulos.py`
 
 ### Project Structure
