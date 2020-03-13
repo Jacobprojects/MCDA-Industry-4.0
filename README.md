@@ -4,7 +4,7 @@
 - Tkinter (GUI)
 - SQLite3 ( DataBase)
 
-### How to Run ? 
+### How to Run
 - Download
 - UnZIP the project
 - Run `python crearbase.py`
