@@ -21,20 +21,20 @@
 
 ### Screenshots
 
-### First Tab "ADD"
-<img src="https://github.com/Jacobprojects/MCDA-Industry-4.0/blob/master/Screen%20Shot%202020-02-16%20at%2022.46.34.png">
+### First Tab "Capturar"
+<img src="https://github.com/Jacobprojects/MCDA-Industry-4.0/blob/master/Screen%20Shot%202020-04-29%20at%200.34.09.png">
 
-### Second Tab "Show DB"
-<img src="https://github.com/Jacobprojects/MCDA-Industry-4.0/blob/master/Screen%20Shot%202020-02-16%20at%2022.46.42.png">
+### Second Tab "Consultar"
+<img src="https://github.com/Jacobprojects/MCDA-Industry-4.0/blob/master/Screen%20Shot%202020-04-29%20at%200.34.21.png">
 
-### Third Tab "Update Data"
-<img src="https://github.com/Jacobprojects/MCDA-Industry-4.0/blob/master/Screen%20Shot%202020-02-16%20at%2022.46.52.png">
+### Third Tab "Modificar/Actualizar"
+<img src="https://github.com/Jacobprojects/MCDA-Industry-4.0/blob/master/Screen%20Shot%202020-04-29%20at%200.34.28.png">
 
-### Fourth Tab "Delete Alt."
-<img src="https://github.com/Jacobprojects/MCDA-Industry-4.0/blob/master/Screen%20Shot%202020-02-16%20at%2022.46.59.png">
+### Fourth Tab "Eliminar"
+<img src="https://github.com/Jacobprojects/MCDA-Industry-4.0/blob/master/Screen%20Shot%202020-04-29%20at%200.34.34.png">
 
 ### Fifth Tab "MCDA"
-<img src="https://github.com/Jacobprojects/MCDA-Industry-4.0/blob/master/Screen%20Shot%202020-02-16%20at%2022.47.07.png">
+<img src="https://github.com/Jacobprojects/MCDA-Industry-4.0/blob/master/Screen%20Shot%202020-04-29%20at%200.34.45.png">
 
 
 ### Video demo
