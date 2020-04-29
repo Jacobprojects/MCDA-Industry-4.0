@@ -8,17 +8,16 @@
 - Download
 - UnZIP the project
 - Run `python crearbase.py`
-- The "bd1.db" will be created
+- The "alternativas.db" will be created
 - Then run `python modulos.py`
 
 ### Project Structure
 
 - After running the program the first 3 models will be shown in the window.
-- In the first tab "Agregar" you can add the new alternative.
+- In the first tab "Agregas" you can add the new alternative.
 - After that you can view all the alternatives in the tab "consultar" you have captured in the DB.
 - In the next tab "Modificar/Actualizar" you can manipualte the data.
 - After that in the tab "Eliminar" you can eliminate an alternative by the code.
-- Im working to create the 3rd module where shows the data and the ideal matrix.
 
 ### Screenshots
 
@@ -44,5 +43,7 @@
 
 
 ### Notes
-- I will develop the IV module for the next test.
 - Requires Python 3 or Python 2.
+
+### Update 
+- The MCDA.pdf is available for the second parcial and i will be updating to run the interface correctly.
